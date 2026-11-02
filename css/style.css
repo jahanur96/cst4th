@@ -1,0 +1,28 @@
+.nav-bar {
+    background: #cdcdcd;
+}
+
+.nav-bar nav ul>li {
+    display: inline-block;
+    padding: 15px;
+    color: #ddd;
+}
+.logo-wrapper img {
+    width: 70%;
+}
+.navbar-wrapper {
+    display: inline-block;
+}
+.logo-wrapper {
+    display: inline-block;
+    float: left;
+}
+
+.navbar-wrapper ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar-wrapper ul li:hover a{
+    color: gray;
+}
